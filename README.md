@@ -4,7 +4,7 @@ This project uses Convolutional Neural Networks (CNNs) to focus on single-word s
 
 ## 🚀 Project Overview
 - 🔍 Goal: Develop a CNN-based model for recognizing spoken words.
-- 🗂 Dataset: Google Speech Commands dataset.
+- 🗂 Dataset: [Google Speech Commands dataset](https://www.kaggle.com/datasets/neehakurelli/google-speech-commands).
 - 🏗 Approach: Convert audio signals into spectrograms and train a CNN model.
 - 🧠 Model: Deep learning-based CNN architecture.
 - 📈 Evaluation: Accuracy, loss metrics, and confusion matrix analysis.
